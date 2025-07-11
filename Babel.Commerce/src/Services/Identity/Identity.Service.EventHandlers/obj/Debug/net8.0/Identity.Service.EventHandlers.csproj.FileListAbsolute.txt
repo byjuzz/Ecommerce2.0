@@ -1,0 +1,17 @@
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Service.EventHandlers.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Service.EventHandlers.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.10FE18E2.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\refint\Identity.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\Identity.Service.EventHandlers.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\net8.0\ref\Identity.Service.EventHandlers.dll

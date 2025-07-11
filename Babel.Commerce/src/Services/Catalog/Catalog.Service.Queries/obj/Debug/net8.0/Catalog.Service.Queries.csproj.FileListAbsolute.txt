@@ -1,0 +1,46 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Service.Queries.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Service.Queries.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Service.Queries.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog..1932221B.Up2Date
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\refint\Catalog.Service.Queries.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\ref\Catalog.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Service.Queries.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Service.Queries.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog..1932221B.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\refint\Catalog.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\Catalog.Service.Queries.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net8.0\ref\Catalog.Service.Queries.dll

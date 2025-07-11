@@ -1,0 +1,22 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\refint\Catalog.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\ref\Catalog.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\refint\Catalog.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\ref\Catalog.Common.dll

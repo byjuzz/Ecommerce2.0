@@ -1,0 +1,24 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\refint\Order.Service.Proxies.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\ref\Order.Service.Proxies.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\refint\Order.Service.Proxies.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\ref\Order.Service.Proxies.dll

@@ -1,0 +1,55 @@
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.deps.json
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.dll
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.pdb
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.AssemblyInfo.cs
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog..525E6760.Up2Date
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.dll
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\refint\Catalog.Service.EventHandlers.dll
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.pdb
+C:\Babel.Commerce2\Babel.Commerce2\Catalog.Service.EventHandlers\obj\Debug\net8.0\ref\Catalog.Service.EventHandlers.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Common.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog..525E6760.Up2Date
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\refint\Catalog.Service.EventHandlers.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\ref\Catalog.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Service.EventHandlers.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Common.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog..525E6760.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\refint\Catalog.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\Catalog.Service.EventHandlers.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\net8.0\ref\Catalog.Service.EventHandlers.dll

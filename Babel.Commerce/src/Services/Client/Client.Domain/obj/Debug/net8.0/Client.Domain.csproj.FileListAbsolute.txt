@@ -1,0 +1,22 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\refint\Client.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\ref\Client.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\bin\Debug\net8.0\Client.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\refint\Client.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\Client.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Client\Client.Domain\obj\Debug\net8.0\ref\Client.Domain.dll

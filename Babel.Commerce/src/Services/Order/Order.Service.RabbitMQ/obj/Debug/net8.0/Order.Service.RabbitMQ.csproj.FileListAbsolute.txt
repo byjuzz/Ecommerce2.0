@@ -1,0 +1,15 @@
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\bin\Debug\net8.0\Order.Service.RabbitMQ.deps.json
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\bin\Debug\net8.0\Order.Service.RabbitMQ.dll
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\bin\Debug\net8.0\Order.Service.RabbitMQ.pdb
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\bin\Debug\net8.0\Service.Common.RabitMq.Bus.dll
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\bin\Debug\net8.0\Service.Common.RabitMq.Bus.pdb
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Service.RabbitMQ.csproj.AssemblyReference.cache
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Service.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Service.RabbitMQ.AssemblyInfoInputs.cache
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Service.RabbitMQ.AssemblyInfo.cs
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Service.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Se.FF4FDE27.Up2Date
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Service.RabbitMQ.dll
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\refint\Order.Service.RabbitMQ.dll
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\Order.Service.RabbitMQ.pdb
+C:\Babel.Commerce\src\Services\Order\Order.Service.RabbitMQ\obj\Debug\net8.0\ref\Order.Service.RabbitMQ.dll

@@ -1,0 +1,24 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll

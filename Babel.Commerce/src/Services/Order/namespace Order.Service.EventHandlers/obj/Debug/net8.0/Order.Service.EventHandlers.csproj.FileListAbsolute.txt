@@ -1,0 +1,42 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.EventHandlers.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.EventHandlers.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.EventHandlers.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.Proxies.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Common.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Persistence.Database.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.Proxies.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Se.44B01E77.Up2Date
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\refint\Order.Service.EventHandlers.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\ref\Order.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.EventHandlers.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.EventHandlers.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.Proxies.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Common.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Service.Proxies.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Se.44B01E77.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\refint\Order.Service.EventHandlers.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\Order.Service.EventHandlers.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\namespace Order.Service.EventHandlers\obj\Debug\net8.0\ref\Order.Service.EventHandlers.dll

@@ -1,0 +1,115 @@
+version: '3.4'
+
+services:
+  identity.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      # - ConnectionStrings__EcommerceContext=Server=sql2022;Database=CarritoElectronico;User Id=sa;Password=${DB_PASSWORD};Trust Server Certificate=True;MultipleActiveResultSets=true;
+      - ConnectionStrings__EcommerceContext=${APP_DB}      
+      # - ASPNETCORE_HTTPS_PORTS=8081
+    ports:
+      - "6400:8080"
+      # - "8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+    depends_on:
+        mssql:
+         condition: service_healthy
+  catalog.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__EcommerceContext=Server=mssql;Database=CarritoElectronico01;User Id=sa;Password=${DB_PASSWORD};Trust Server Certificate=True;MultipleActiveResultSets=true;
+      - ASPNETCORE_HTTP_PORTS=8080
+    ports:
+      - "6500:8080"
+    depends_on:
+        mssql:
+         condition: service_healthy
+         
+  client.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ConnectionStrings__EcommerceContext=Server=mssql;Database=CarritoElectronico02;User Id=sa;Password=${DB_PASSWORD};Trust Server Certificate=True;MultipleActiveResultSets=true;
+      # - ASPNETCORE_HTTPS_PORTS=8081
+    ports:
+      - "6600:8080"
+      # - "8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+    depends_on:
+        mssql:
+         condition: service_healthy
+
+  order.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ConnectionStrings__EcommerceContext=Server=mssql;Database=CarritoElectronico03;User Id=sa;Password=${DB_PASSWORD};Trust Server Certificate=True;MultipleActiveResultSets=true;
+      - ApiUrls__CatalogUrl=http://catalog.api:8080/
+      # - ASPNETCORE_HTTPS_PORTS=8081
+    ports:
+      - "6800:8080"
+      # - "8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+    depends_on:
+        mssql:
+         condition: service_healthy
+  api.gateway.webclient:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      # - ASPNETCORE_HTTPS_PORTS=8081
+      - ApiUrls__IdentityUrl=http://identity.api:8080/
+      - ApiUrls__CatalogUrl=http://catalog.api:8080/
+      - ApiUrls__CustomerUrl=http://client.api:8080/
+      - ApiUrls__OrderUrl=http://order.api:8080/
+    ports:
+      - "6300:8080"
+      # - "8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+
+  clients.authentication:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - IdentityUrl=http://identity.api:8080/
+      # - ASPNETCORE_HTTPS_PORTS=8081
+    ports:
+      - "6200:8080"
+      # - "8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+
+  clients.webclient:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      # - ASPNETCORE_HTTPS_PORTS=8081
+      - AuthenticationUrl=http://localhost:6200/
+      - ApiGatewayUrl=http://api.gateway.webclient:8080/
+    ports:
+      - "6100:8080"
+      # - "8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+    depends_on:
+        - clients.authentication
+        - api.gateway.webclient
+
+  ocelot.api.gateway:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+    ports:
+      - "6900:8080"
+

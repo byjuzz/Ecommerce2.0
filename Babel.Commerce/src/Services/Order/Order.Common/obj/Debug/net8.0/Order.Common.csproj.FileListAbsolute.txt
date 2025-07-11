@@ -1,0 +1,22 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\refint\Order.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\ref\Order.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\refint\Order.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\ref\Order.Common.dll

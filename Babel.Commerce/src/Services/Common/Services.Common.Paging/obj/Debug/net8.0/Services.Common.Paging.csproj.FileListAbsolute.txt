@@ -1,0 +1,30 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Services.Common.Paging.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Service.Common.Collection.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Service.Common.Collection.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.5FE88A38.Up2Date
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\refint\Services.Common.Paging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\ref\Services.Common.Paging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Services.Common.Paging.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Service.Common.Collection.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\bin\Debug\net8.0\Service.Common.Collection.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.5FE88A38.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\refint\Services.Common.Paging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Services.Common.Paging\obj\Debug\net8.0\ref\Services.Common.Paging.dll

@@ -1,0 +1,34 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog..07745594.Up2Date
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\refint\Catalog.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\ref\Catalog.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.runtimeconfig.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.genruntimeconfig.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.runtimeconfig.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog..07745594.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\refint\Catalog.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.genruntimeconfig.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\ref\Catalog.Persistence.Database.dll

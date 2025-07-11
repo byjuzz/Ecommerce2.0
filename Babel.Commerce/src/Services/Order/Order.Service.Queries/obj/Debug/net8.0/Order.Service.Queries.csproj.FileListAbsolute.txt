@@ -1,0 +1,50 @@
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Service.Queries.deps.json
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Service.Queries.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Service.Queries.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Common.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Persistence.Database.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Persistence.Database.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Common.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.csproj.AssemblyReference.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.AssemblyInfoInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.AssemblyInfo.cs
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Se.5FA67B79.Up2Date
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\refint\Order.Service.Queries.dll
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.pdb
+C:\Users\brian.quesada\Downloads\Babel.Commerce2 3\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\ref\Order.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Service.Queries.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Service.Queries.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Common.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Collection.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Service.Common.Mapping.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Services.Common.Paging.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\bin\Debug\net8.0\Order.Common.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Se.5FA67B79.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\refint\Order.Service.Queries.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\Order.Service.Queries.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Queries\obj\Debug\net8.0\ref\Order.Service.Queries.dll

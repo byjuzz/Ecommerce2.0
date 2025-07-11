@@ -1,0 +1,15 @@
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\bin\Debug\net8.0\Identity.Persistence.Database.deps.json
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\bin\Debug\net8.0\Identity.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\bin\Debug\net8.0\Identity.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.AssemblyInfo.cs
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.EF2B3A67.Up2Date
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\refint\Identity.Persistence.Database.dll
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\Identity.Persistence.Database.pdb
+C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Identity\Identity.Persistence.Database\obj\Debug\net8.0\ref\Identity.Persistence.Database.dll
