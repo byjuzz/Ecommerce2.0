@@ -20,3 +20,15 @@ C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\refint\Catalog.Common.dll
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.pdb
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\ref\Catalog.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\bin\Debug\net8.0\Catalog.Common.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\refint\Catalog.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\Catalog.Common.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Catalog\Catalog.Common\obj\Debug\net8.0\ref\Catalog.Common.dll

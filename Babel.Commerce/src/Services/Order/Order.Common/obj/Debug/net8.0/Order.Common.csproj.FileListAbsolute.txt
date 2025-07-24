@@ -20,3 +20,15 @@ C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Comm
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\refint\Order.Common.dll
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.pdb
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Common\obj\Debug\net8.0\ref\Order.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\bin\Debug\net8.0\Order.Common.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\refint\Order.Common.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\Order.Common.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Common\obj\Debug\net8.0\ref\Order.Common.dll

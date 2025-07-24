@@ -110,9 +110,43 @@ app.Run();
 static async Task Seeding(IServiceScope serviceScope)
 {
     var userManager = serviceScope?.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-    var usr = new ApplicationUser { FirstName = "Mauricio", LastName = "Sandoval", Email = "user@example.com", UserName = "user@example.com" };
-    if (userManager.Users.All(u => u.Id != usr.Id))
+    var roleManager = serviceScope?.ServiceProvider.GetRequiredService<RoleManager<ApplicationRole>>();
+
+    string roleName = "Admin";
+    string email = "user@example.com";
+    string password = "Babel2025$";
+
+    // Asegurar que el rol "Admin" existe
+    if (!await roleManager.RoleExistsAsync(roleName))
     {
-        await userManager.CreateAsync(usr, "Babel2025$");
+        await roleManager.CreateAsync(new ApplicationRole { Name = roleName, NormalizedName = roleName.ToUpper() });
+    }
+
+    // Crear usuario si no existe
+    var existingUser = await userManager.FindByEmailAsync(email);
+    if (existingUser == null)
+    {
+        var user = new ApplicationUser
+        {
+            FirstName = "Mauricio",
+            LastName = "Sandoval",
+            Email = email,
+            UserName = email
+        };
+
+        var result = await userManager.CreateAsync(user, password);
+        if (result.Succeeded)
+        {
+            await userManager.AddToRoleAsync(user, roleName);
+        }
+    }
+    else
+    {
+        // Asegurarse que ya tenga el rol asignado (en caso de recrear contenedor sin borrar DB)
+        var hasRole = await userManager.IsInRoleAsync(existingUser, roleName);
+        if (!hasRole)
+        {
+            await userManager.AddToRoleAsync(existingUser, roleName);
+        }
     }
 }

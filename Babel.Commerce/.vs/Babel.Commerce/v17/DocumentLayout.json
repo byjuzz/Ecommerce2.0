@@ -1,12 +1,383 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Babel.Commerce\\",
-  "Documents": [],
+  "WorkspaceRootPath": "Y:\\BabelEcommerce\\Babel.Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D566A315-5F7A-46E7-A2E2-BC2FFFF5D7E8}|src\\Services\\Common\\Service.Common.RabitMq.Bus\\Service.Common.RabitMq.Bus.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\common\\service.common.rabitmq.bus\\implement\\rabbiteventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D566A315-5F7A-46E7-A2E2-BC2FFFF5D7E8}|src\\Services\\Common\\Service.Common.RabitMq.Bus\\Service.Common.RabitMq.Bus.csproj|solutionrelative:src\\services\\common\\service.common.rabitmq.bus\\implement\\rabbiteventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298DA88E-471F-4784-A065-9693C68E3661}|src\\Services\\Order\\namespace Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\namespace order.service.eventhandlers\\ordercreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298DA88E-471F-4784-A065-9693C68E3661}|src\\Services\\Order\\namespace Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj|solutionrelative:src\\services\\order\\namespace order.service.eventhandlers\\ordercreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D791F6DF-9044-4739-A281-C4012E9A1FEB}|src\\Services\\Order\\Order.Api\\Order.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791F6DF-9044-4739-A281-C4012E9A1FEB}|src\\Services\\Order\\Order.Api\\Order.Api.csproj|solutionrelative:src\\services\\order\\order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D791F6DF-9044-4739-A281-C4012E9A1FEB}|src\\Services\\Order\\Order.Api\\Order.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.api\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D791F6DF-9044-4739-A281-C4012E9A1FEB}|src\\Services\\Order\\Order.Api\\Order.Api.csproj|solutionrelative:src\\services\\order\\order.api\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028AED84-4FA9-4338-9279-B0B69D7FD41A}|src\\Gateways\\Ocelot.Api.Gateway\\Ocelot.Api.Gateway.csproj|y:\\babelecommerce\\babel.commerce\\src\\gateways\\ocelot.api.gateway\\config\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{028AED84-4FA9-4338-9279-B0B69D7FD41A}|src\\Gateways\\Ocelot.Api.Gateway\\Ocelot.Api.Gateway.csproj|solutionrelative:src\\gateways\\ocelot.api.gateway\\config\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C666FF4-E62C-ED3E-5086-7F5D3C335EA5}|src\\Services\\Client\\Client.Service.EventHandlers\\Client.Service.EventHandlers.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\client\\client.service.eventhandlers\\clientcreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C666FF4-E62C-ED3E-5086-7F5D3C335EA5}|src\\Services\\Client\\Client.Service.EventHandlers\\Client.Service.EventHandlers.csproj|solutionrelative:src\\services\\client\\client.service.eventhandlers\\clientcreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C4D27-C70F-499D-819A-5CBA289390D0}|src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.service.proxies\\catalog\\cataloghttpproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C4D27-C70F-499D-819A-5CBA289390D0}|src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj|solutionrelative:src\\services\\order\\order.service.proxies\\catalog\\cataloghttpproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C4D27-C70F-499D-819A-5CBA289390D0}|src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.service.proxies\\catalog\\commands\\productinstockupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C4D27-C70F-499D-819A-5CBA289390D0}|src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj|solutionrelative:src\\services\\order\\order.service.proxies\\catalog\\commands\\productinstockupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C4D27-C70F-499D-819A-5CBA289390D0}|src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.service.proxies\\catalog\\icatalogproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C4D27-C70F-499D-819A-5CBA289390D0}|src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj|solutionrelative:src\\services\\order\\order.service.proxies\\catalog\\icatalogproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC51276D-728E-4CBB-A2A8-0176F30CD1E5}|src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\catalog\\catalog.api\\controllers\\productinstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC51276D-728E-4CBB-A2A8-0176F30CD1E5}|src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\controllers\\productinstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74D05F-1013-4FF0-A212-15C79F44481C}|src\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\catalog\\catalog.service.eventhandlers\\productinstockupdatestockeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74D05F-1013-4FF0-A212-15C79F44481C}|src\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj|solutionrelative:src\\services\\catalog\\catalog.service.eventhandlers\\productinstockupdatestockeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC51276D-728E-4CBB-A2A8-0176F30CD1E5}|src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\catalog\\catalog.api\\manejadores\\manejadorproductinstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC51276D-728E-4CBB-A2A8-0176F30CD1E5}|src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\manejadores\\manejadorproductinstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC51276D-728E-4CBB-A2A8-0176F30CD1E5}|src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\catalog\\catalog.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC51276D-728E-4CBB-A2A8-0176F30CD1E5}|src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj|solutionrelative:src\\services\\catalog\\catalog.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\identity\\identity.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|solutionrelative:src\\services\\identity\\identity.api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Julio\\AppData\\Local\\Temp\\Rar$DIa30552.45202.rartemp\\IdentityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\identity\\identity.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|solutionrelative:src\\services\\identity\\identity.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\identity\\identity.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|solutionrelative:src\\services\\identity\\identity.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\identity\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851EE4DD-1902-4135-B824-BE79C4E26552}|src\\Services\\Identity\\Identity.Api\\Identity.Api.csproj|solutionrelative:src\\services\\identity\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.service.queries\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|solutionrelative:src\\services\\order\\order.service.queries\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.service.queries\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|solutionrelative:src\\services\\order\\order.service.queries\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.service.queries\\orderqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|solutionrelative:src\\services\\order\\order.service.queries\\orderqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|y:\\babelecommerce\\babel.commerce\\src\\services\\order\\order.service.queries\\ordersqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A633D6-FB5B-4EFE-A532-32B6A26753E0}|src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj|solutionrelative:src\\services\\order\\order.service.queries\\ordersqueryhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Api\\Controllers\\DefaultController.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Api\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T22:15:52.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientCreateEventHandler.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Client\\Client.Service.EventHandlers\\ClientCreateEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Client\\Client.Service.EventHandlers\\ClientCreateEventHandler.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Client\\Client.Service.EventHandlers\\ClientCreateEventHandler.cs",
+              "RelativeToolTip": "src\\Services\\Client\\Client.Service.EventHandlers\\ClientCreateEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T22:10:42.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogHttpProxy.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Catalog\\CatalogHttpProxy.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Service.Proxies\\Catalog\\CatalogHttpProxy.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Catalog\\CatalogHttpProxy.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Service.Proxies\\Catalog\\CatalogHttpProxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:41:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Ocelot.Api.Gateway\\Config\\ocelot.json",
+              "RelativeDocumentMoniker": "src\\Gateways\\Ocelot.Api.Gateway\\Config\\ocelot.json",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Ocelot.Api.Gateway\\Config\\ocelot.json",
+              "RelativeToolTip": "src\\Gateways\\Ocelot.Api.Gateway\\Config\\ocelot.json",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAD4v6YAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T18:11:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:24:44.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderCreateEventHandler.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\namespace Order.Service.EventHandlers\\OrderCreateEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\namespace Order.Service.EventHandlers\\OrderCreateEventHandler.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\namespace Order.Service.EventHandlers\\OrderCreateEventHandler.cs",
+              "RelativeToolTip": "src\\Services\\Order\\namespace Order.Service.EventHandlers\\OrderCreateEventHandler.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwF8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:09:17.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitEventBus.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.RabitMq.Bus\\Implement\\RabbitEventBus.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Common\\Service.Common.RabitMq.Bus\\Implement\\RabbitEventBus.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.RabitMq.Bus\\Implement\\RabbitEventBus.cs",
+              "RelativeToolTip": "src\\Services\\Common\\Service.Common.RabitMq.Bus\\Implement\\RabbitEventBus.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:16:22.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductInStockUpdateCommand.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Catalog\\Commands\\ProductInStockUpdateCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Service.Proxies\\Catalog\\Commands\\ProductInStockUpdateCommand.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Catalog\\Commands\\ProductInStockUpdateCommand.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Service.Proxies\\Catalog\\Commands\\ProductInStockUpdateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:41:30.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICatalogProxy.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Catalog\\ICatalogProxy.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Service.Proxies\\Catalog\\ICatalogProxy.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Catalog\\ICatalogProxy.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Service.Proxies\\Catalog\\ICatalogProxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:41:52.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInStockUpdateStockEventHandler.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\ProductInStockUpdateStockEventHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.Service.EventHandlers\\ProductInStockUpdateStockEventHandler.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\ProductInStockUpdateStockEventHandler.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.Service.EventHandlers\\ProductInStockUpdateStockEventHandler.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAIAwwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:16:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManejadorProductInStock.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Api\\Manejadores\\ManejadorProductInStock.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.Api\\Manejadores\\ManejadorProductInStock.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Api\\Manejadores\\ManejadorProductInStock.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.Api\\Manejadores\\ManejadorProductInStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:11:52.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\Identity.Api\\Program.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Identity\\Identity.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:26:39.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDto.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:15:26.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDetailDto.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDetailDto.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Service.Queries\\DTOs\\OrderDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:15:24.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductInStockController.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductInStockController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductInStockController.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductInStockController.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductInStockController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:12:29.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\Identity.Api\\Controllers\\RolesController.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "src\\Services\\Identity\\Identity.Api\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:26:43.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "src\\Services\\Catalog\\Catalog.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:12:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\Identity.Api\\Controllers\\UserController.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Services\\Identity\\Identity.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:26:42.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Identity\\Identity.Api\\Controllers\\IdentityController.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Identity\\Identity.Api\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "src\\Services\\Identity\\Identity.Api\\Controllers\\IdentityController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:26:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "C:\\Users\\Julio\\AppData\\Local\\Temp\\Rar$DIa30552.45202.rartemp\\IdentityController.cs",
+              "ToolTip": "C:\\Users\\Julio\\AppData\\Local\\Temp\\Rar$DIa30552.45202.rartemp\\IdentityController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:27:22.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderQueryHandlers.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\OrderQueryHandlers.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Service.Queries\\OrderQueryHandlers.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\OrderQueryHandlers.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Service.Queries\\OrderQueryHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:08:58.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrdersQueryHandlers.cs",
+              "DocumentMoniker": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\OrdersQueryHandlers.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Order\\Order.Service.Queries\\OrdersQueryHandlers.cs",
+              "ToolTip": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\OrdersQueryHandlers.cs",
+              "RelativeToolTip": "src\\Services\\Order\\Order.Service.Queries\\OrdersQueryHandlers.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:08:43.485Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

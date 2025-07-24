@@ -1,0 +1,16 @@
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\net8.0\Api.Gateway.WebClient.Proxy.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\net8.0\Api.Gateway.WebClient.Proxy.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\net8.0\Api.Gateway.WebClient.Proxy.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\net8.0\Api.Gateway.Models.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\net8.0\Api.Gateway.Models.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.csproj.AssemblyReference.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gate.D7A411CD.Up2Date
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\refint\Api.Gateway.WebClient.Proxy.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\Api.Gateway.WebClient.Proxy.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\net8.0\ref\Api.Gateway.WebClient.Proxy.dll

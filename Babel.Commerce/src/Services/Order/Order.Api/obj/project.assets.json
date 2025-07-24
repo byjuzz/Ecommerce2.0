@@ -5894,19 +5894,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\": {}
+    "C:\\Users\\Julio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Order.Api.csproj",
+      "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Order.Api.csproj",
       "projectName": "Order.Api",
-      "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Order.Api.csproj",
-      "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-      "outputPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\obj\\",
+      "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\Order.Api.csproj",
+      "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+      "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5915,30 +5915,29 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Babel.Commerce\\src\\Common\\Common.Logging.Serilog\\Common.Logging.Serilog.csproj": {
-              "projectPath": "C:\\Babel.Commerce\\src\\Common\\Common.Logging.Serilog\\Common.Logging.Serilog.csproj"
+            "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Common\\Common.Logging.Serilog\\Common.Logging.Serilog.csproj": {
+              "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Common\\Common.Logging.Serilog\\Common.Logging.Serilog.csproj"
             },
-            "C:\\Babel.Commerce\\src\\Common\\Common.Logging\\Common.Logging.csproj": {
-              "projectPath": "C:\\Babel.Commerce\\src\\Common\\Common.Logging\\Common.Logging.csproj"
+            "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Common\\Common.Logging\\Common.Logging.csproj": {
+              "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Common\\Common.Logging\\Common.Logging.csproj"
             },
-            "C:\\Babel.Commerce\\src\\Services\\Order\\namespace Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj": {
-              "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\namespace Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj"
+            "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\namespace Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj": {
+              "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\namespace Order.Service.EventHandlers\\Order.Service.EventHandlers.csproj"
             },
-            "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj": {
-              "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj"
+            "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj": {
+              "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj"
             },
-            "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj": {
-              "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj"
+            "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj": {
+              "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Proxies\\Order.Service.Proxies.csproj"
             },
-            "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj": {
-              "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj"
+            "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj": {
+              "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj"
             }
           }
         }
@@ -6020,7 +6019,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

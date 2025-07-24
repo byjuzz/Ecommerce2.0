@@ -22,3 +22,16 @@ C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Serv
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\refint\Order.Service.Proxies.dll
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.pdb
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\ref\Order.Service.Proxies.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\net8.0\Order.Service.Proxies.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.csproj.AssemblyReference.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\refint\Order.Service.Proxies.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\Order.Service.Proxies.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\net8.0\ref\Order.Service.Proxies.dll

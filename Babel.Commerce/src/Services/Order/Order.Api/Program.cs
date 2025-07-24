@@ -131,7 +131,7 @@ app.UseHealthChecksUI(delegate (Options options)
 
 });
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -21,15 +21,66 @@ namespace Catalog.Service.Queries
         }
         public async Task<DataCollection<ProductDto>> GetAllAsync(int page, int take, IEnumerable<int> products = null)
         {
-            var collection = await _context.Products.Where(
-                 x => products == null || products.Contains(x.ProductId)).OrderByDescending(x => x.ProductId)
-                 .GetPagedAsync(page, take);
-            return collection.MapTo<DataCollection<ProductDto>>();
+            var productQuery = _context.Products
+                .Where(x => products == null || products.Contains(x.ProductId))
+                .OrderByDescending(x => x.ProductId);
+
+            var collection = await productQuery.GetPagedAsync(page, take);
+
+            var productIds = collection.Items.Select(p => p.ProductId).ToList();
+
+            var stockDict = await _context.Stocks
+                .Where(s => productIds.Contains(s.ProductId))
+                .ToDictionaryAsync(
+                    s => s.ProductId,
+                    s => new ProductInStockDto
+                    {
+                        ProductInStockId = s.ProductInStockId,
+                        ProductId = s.ProductId,
+                        Stock = s.Stock
+                    });
+
+            var result = new DataCollection<ProductDto>
+            {
+                Page = collection.Page,
+                Pages = collection.Pages,
+                Total = collection.Total,
+                Items = collection.Items.Select(p => new ProductDto
+                {
+                    ProductId = p.ProductId,
+                    Name = p.Name,
+                    Description = p.Description,
+                    Price = p.Price,
+                    Stock = stockDict.ContainsKey(p.ProductId) ? stockDict[p.ProductId] : null
+                }).ToList()
+            };
+
+            return result;
         }
 
         public async Task<ProductDto> GetAsync(int id)
         {
-            return (await _context.Products.SingleAsync(x => x.ProductId == id)).MapTo<ProductDto>();
+            var product = await _context.Products.SingleOrDefaultAsync(p => p.ProductId == id);
+            if (product == null) return null;
+
+            var stock = await _context.Stocks
+                .Where(s => s.ProductId == id)
+                .Select(s => new ProductInStockDto
+                {
+                    ProductInStockId = s.ProductInStockId,
+                    ProductId = s.ProductId,
+                    Stock = s.Stock
+                })
+                .FirstOrDefaultAsync();
+
+            return new ProductDto
+            {
+                ProductId = product.ProductId,
+                Name = product.Name,
+                Description = product.Description,
+                Price = product.Price,
+                Stock = stock
+            };
         }
     }
 }

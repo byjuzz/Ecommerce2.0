@@ -1,0 +1,12 @@
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\bin\Debug\net8.0\Api.Gateway.Models.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\bin\Debug\net8.0\Api.Gateway.Models.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\bin\Debug\net8.0\Api.Gateway.Models.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\refint\Api.Gateway.Models.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\Api.Gateway.Models.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\net8.0\ref\Api.Gateway.Models.dll

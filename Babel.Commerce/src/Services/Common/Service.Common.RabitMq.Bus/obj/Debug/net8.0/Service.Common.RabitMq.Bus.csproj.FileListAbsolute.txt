@@ -1,0 +1,13 @@
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\bin\Debug\net8.0\Service.Common.RabitMq.Bus.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\bin\Debug\net8.0\Service.Common.RabitMq.Bus.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\bin\Debug\net8.0\Service.Common.RabitMq.Bus.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.csproj.AssemblyReference.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\refint\Service.Common.RabitMq.Bus.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\Service.Common.RabitMq.Bus.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.RabitMq.Bus\obj\Debug\net8.0\ref\Service.Common.RabitMq.Bus.dll

@@ -20,3 +20,15 @@ C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.C
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\refint\Service.Common.Mapping.dll
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.pdb
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\ref\Service.Common.Mapping.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\bin\Debug\net8.0\Service.Common.Mapping.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\bin\Debug\net8.0\Service.Common.Mapping.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\bin\Debug\net8.0\Service.Common.Mapping.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\refint\Service.Common.Mapping.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\Service.Common.Mapping.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Mapping\obj\Debug\net8.0\ref\Service.Common.Mapping.dll

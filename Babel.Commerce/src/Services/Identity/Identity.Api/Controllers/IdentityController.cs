@@ -44,6 +44,7 @@ namespace Identity.Api.Controllers
             return BadRequest();
         }
 
+
         [HttpPost("authentication")]
         [AllowAnonymous]
         public async Task<IActionResult> Authentication(UserLoginCommand command)
@@ -62,5 +63,17 @@ namespace Identity.Api.Controllers
 
             return BadRequest();
         }
+
+        [HttpPost("register")]
+        [AllowAnonymous]
+        public async Task<IActionResult> Register([FromBody] UserCreateCommand command)
+        {
+            // No asigna rol explícito, será "User" por defecto
+            var result = await _mediator.Send(command);
+            if (!result.Succeeded) return BadRequest(result.Errors);
+
+            return Ok("Usuario registrado correctamente");
+        }
+
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Identity.Domain;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
 using System.Collections.Generic;
@@ -16,9 +17,9 @@ namespace Identity.Persistence.Database.Configuration
 
             entityBuilder.Property(x => x.FirstName).IsRequired().HasMaxLength(100);
             entityBuilder.Property(x => x.LastName).IsRequired().HasMaxLength(100);
-            entityBuilder.HasMany(e => e.UserRoles).WithOne(e => e.User).HasForeignKey(e => e.UserId).IsRequired();
         }
-
     }
-    
+
 }
+    
+

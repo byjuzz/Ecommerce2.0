@@ -1,25 +1,35 @@
-﻿using Identity.Persistence.Database;
+﻿using Identity.Domain;
 using Identity.Service.Queries.Commands;
 using Identity.Service.Queries.DTOs;
 using MediatR;
-using Microsoft.EntityFrameworkCore;
-using Service.Common.Mapping;
+using Microsoft.AspNetCore.Identity;
 
 namespace Identity.Service.Queries
 {
-    public class UserQueryHandler :IRequestHandler<GetUserQuery, UserDto>
+    public class UserQueryHandler : IRequestHandler<GetUserQuery, UserDto>
     {
-        private readonly ApplicationDbContext _context;
+        private readonly UserManager<ApplicationUser> _userManager;
 
-        public UserQueryHandler(ApplicationDbContext context)
+        public UserQueryHandler(UserManager<ApplicationUser> userManager)
         {
-            _context = context;
+            _userManager = userManager;
         }
 
         public async Task<UserDto> Handle(GetUserQuery request, CancellationToken cancellationToken)
         {
-            return (await _context.Users.SingleAsync(x => x.Id == request.Id)).MapTo<UserDto>();
-        }
+            var user = await _userManager.FindByIdAsync(request.Id);
+            if (user == null) return null;
 
+            var roles = await _userManager.GetRolesAsync(user);
+
+            return new UserDto
+            {
+                Id = user.Id,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Email = user.Email,
+                Roles = roles.ToList()
+            };
+        }
     }
 }

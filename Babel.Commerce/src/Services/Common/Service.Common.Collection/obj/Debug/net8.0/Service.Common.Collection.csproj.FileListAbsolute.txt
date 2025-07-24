@@ -20,3 +20,15 @@ C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.C
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\refint\Service.Common.Collection.dll
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.pdb
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\ref\Service.Common.Collection.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\bin\Debug\net8.0\Service.Common.Collection.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\bin\Debug\net8.0\Service.Common.Collection.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\bin\Debug\net8.0\Service.Common.Collection.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\refint\Service.Common.Collection.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\Service.Common.Collection.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Services\Common\Service.Common.Collection\obj\Debug\net8.0\ref\Service.Common.Collection.dll

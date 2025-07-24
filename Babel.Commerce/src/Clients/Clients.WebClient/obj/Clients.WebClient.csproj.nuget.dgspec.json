@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj": {}
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj": {}
   },
   "projects": {
-    "C:\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj",
         "projectName": "Clients.WebClient",
-        "projectPath": "C:\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\Clients.WebClient.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Clients\\Clients.WebClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,15 +23,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj"
               }
             }
           }
@@ -75,21 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
         "projectName": "Api.Gateway.Models",
-        "projectPath": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +97,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -137,21 +135,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj",
         "projectName": "Api.Gateway.WebClient.Proxy",
-        "projectPath": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,15 +158,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Gateways\\Api.Gateway.Models\\Api.Gateway.Models.csproj"
               }
             }
           }
@@ -209,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -22,3 +22,16 @@ C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
 C:\Users\mauricio.sandoval\Desktop\Babel.Commerce2\src\Common\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll

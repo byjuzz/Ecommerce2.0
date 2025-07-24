@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Identity.Domain
 {
-    public class ApplicationRole:IdentityRole
+    public class ApplicationRole : IdentityRole
     {
         public ICollection<ApplicationUserRole> UserRoles { get; set; }
 

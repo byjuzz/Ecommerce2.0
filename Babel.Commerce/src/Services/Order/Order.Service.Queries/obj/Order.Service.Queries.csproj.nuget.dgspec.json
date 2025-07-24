@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj": {}
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj": {}
   },
   "projects": {
-    "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "projectName": "Service.Common.Collection",
-        "projectPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,8 +23,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -62,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
         "projectName": "Service.Common.Mapping",
-        "projectPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,8 +84,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -124,21 +122,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj",
         "projectName": "Services.Common.Paging",
-        "projectPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -147,15 +145,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               }
             }
           }
@@ -196,21 +193,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj",
         "projectName": "Order.Common",
-        "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,8 +216,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -258,21 +254,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj",
         "projectName": "Order.Domain",
-        "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -281,15 +277,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Common\\Order.Common.csproj"
               }
             }
           }
@@ -324,21 +319,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj",
         "projectName": "Order.Persistence.Database",
-        "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -347,15 +342,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj"
               }
             }
           }
@@ -402,21 +396,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj": {
+    "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj",
+        "projectUniqueName": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj",
         "projectName": "Order.Service.Queries",
-        "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj",
-        "packagesPath": "C:\\Users\\mauricio.sandoval\\.nuget\\packages\\",
-        "outputPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\obj\\",
+        "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\Order.Service.Queries.csproj",
+        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
+        "outputPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Service.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mauricio.sandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -425,27 +419,26 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://desarrollobpdc.pkgs.visualstudio.com/_packaging/F2DNA.Seguridad/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               },
-              "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
               },
-              "C:\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Common\\Services.Common.Paging\\Services.Common.Paging.csproj"
               },
-              "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Domain\\Order.Domain.csproj"
               },
-              "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj": {
-                "projectPath": "C:\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj"
+              "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj": {
+                "projectPath": "Y:\\BabelEcommerce\\Babel.Commerce\\src\\Services\\Order\\Order.Persistence.Database\\Order.Persistence.Database.csproj"
               }
             }
           }
@@ -486,7 +479,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

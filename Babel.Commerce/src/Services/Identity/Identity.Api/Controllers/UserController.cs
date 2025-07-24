@@ -1,4 +1,5 @@
-﻿using Identity.Service.Queries.Commands;
+﻿using Identity.Service.EventHandlers.Commands;
+using Identity.Service.Queries.Commands;
 using Identity.Service.Queries.DTOs;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -6,6 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Service.Common.Collection;
+using System.Security.Claims;
 
 namespace Identity.Api.Controllers
 {
@@ -20,7 +22,7 @@ namespace Identity.Api.Controllers
         public UserController(
             ILogger<UserController> logger,
             IMediator mediator
-            )
+        )
         {
             _logger = logger;
             _mediator = mediator;
@@ -37,7 +39,36 @@ namespace Identity.Api.Controllers
         public async Task<UserDto> Get(string id)
         {
             return await _mediator.Send(new GetUserQuery(id));
+        }
 
+        [HttpGet("me")]
+        public async Task<ActionResult<UserDto>> GetCurrentUser()
+        {
+            var userId = User.FindFirst("id")?.Value ?? User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            if (string.IsNullOrEmpty(userId))
+            {
+                return Unauthorized();
+            }
+
+            var user = await _mediator.Send(new GetUserQuery(userId));
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(user);
+        }
+
+
+        [Authorize(Roles = "Admin")]
+        [HttpPost("admin/create")]
+        public async Task<IActionResult> CreateUserByAdmin([FromBody] UserCreateByAdminCommand command)
+        {
+            var result = await _mediator.Send(command);
+            if (!result)
+                return BadRequest("Error creando usuario o asignando rol");
+
+            return Ok("Usuario creado correctamente con rol asignado");
         }
     }
 }

@@ -15,6 +15,7 @@
     <ProjectReference Include="..\..\Common\Service.Common.Mapping\Service.Common.Mapping.csproj" />
     <ProjectReference Include="..\..\Common\Services.Common.Paging\Services.Common.Paging.csproj" />
     <ProjectReference Include="..\Identity.Persistence.Database\Identity.Persistence.Database.csproj" />
+    <ProjectReference Include="..\Identity.Service.EventHandlers\Identity.Service.EventHandlers.csproj" />
   </ItemGroup>
 
 </Project>

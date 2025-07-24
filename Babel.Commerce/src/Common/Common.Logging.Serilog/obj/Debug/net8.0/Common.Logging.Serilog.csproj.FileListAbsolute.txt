@@ -1,0 +1,13 @@
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\bin\Debug\net8.0\Common.Logging.Serilog.deps.json
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\bin\Debug\net8.0\Common.Logging.Serilog.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\bin\Debug\net8.0\Common.Logging.Serilog.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.csproj.AssemblyReference.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.GeneratedMSBuildEditorConfig.editorconfig
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.AssemblyInfoInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.AssemblyInfo.cs
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.csproj.CoreCompileInputs.cache
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.sourcelink.json
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\refint\Common.Logging.Serilog.dll
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\Common.Logging.Serilog.pdb
+Y:\BabelEcommerce\Babel.Commerce\src\Common\Common.Logging.Serilog\obj\Debug\net8.0\ref\Common.Logging.Serilog.dll
